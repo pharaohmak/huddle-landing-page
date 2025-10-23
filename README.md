@@ -2,6 +2,8 @@
 
 A responsive landing page built as part of the Frontend Mentor “Huddle landing page with single introductory section” challenge. The page features a hero illustration, headline, descriptive text, a primary call‑to‑action button, and social media links.
 
+![Preview of the NFT card](./preview.jpg)
+
 ## Features
 
 - Responsive design that adapts to desktop, tablet and mobile screens
